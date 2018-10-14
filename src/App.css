@@ -1,0 +1,66 @@
+form {
+  text-align: center;
+}
+
+.btn {
+  background-color: #942166;
+  color: #E9DEE7;
+  border-radius: 5px;
+}
+
+.report {
+  background-color: #FBC9A4;
+  margin: 10px 300px;  
+}
+
+.city-state {
+  font-size: 30px;
+  padding-top:20px;
+}
+
+.top-wrapper {
+  margin: 0 auto;
+  border-top: 1px solid #F7995B;
+  width: 90%;
+}
+
+.icon {
+  display: inline-block;
+  margin-right: 20px;
+  height: 100px;
+  width: 100px;
+
+}
+
+.temperature {
+  font-size: 85px;
+  display: inline-block;
+}
+
+.bottom-wrapper {
+  margin: 0 auto;
+  border-top: 1px solid #F7995B;
+  width: 70%;
+}
+
+.report,
+.city-state,
+.top-wrapper,
+.bottom-wrapper,
+.icon,
+.temperature,
+.description, 
+.humidity {
+  text-align: center;
+}
+
+.description,
+.humidity,
+.wind {
+  font-size: 25px;
+  margin: 10px;
+}
+
+.wind {
+  padding-bottom: 20px;
+}

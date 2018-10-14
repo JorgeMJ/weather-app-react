@@ -1,0 +1,36 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	background-color: #F5F4F1;
+	font-family: 'Ubuntu', sans-serif;
+	margin: 0;
+  	padding: 0; 
+}
+
+h1 {
+	color: #E9DEE7;
+	background-color: #F7995B;
+	text-align: center;
+	padding: 15px;
+	margin: 10px;
+}
+
+a {
+	color: #E9DEE7;
+}
+
+#celsius {
+	font-size: 40px;
+	display: inline-block;
+}
+
+footer {
+	color: #E9DEE7;
+	background-color: #F7995B;
+	text-align: center;
+	padding: 10px;
+	margin: 20px 10px;
+}
+

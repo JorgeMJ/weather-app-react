@@ -1,0 +1,8 @@
+states:
+
+cityName + id
+icon
+temperature
+description
+humidity
+wind
